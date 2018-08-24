@@ -1,0 +1,14 @@
+{
+  "name": "ex1",
+  "description": "Simple Process Project",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6806.18514",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
